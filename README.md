@@ -1,6 +1,8 @@
 ## 🚀 100 Days of Machine Learning (CampusX)
 This repository documents my **100 Days of Machine Learning** journey based on the CampusX playlist.
+
 🔗 https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=wxGxAqVuuAwCGNh8 
+
 I will be consistently learning, implementing, and documenting concepts daily.
 
 Each day includes:
