@@ -48,26 +48,22 @@ Before starting this journey, I covered the following:
 
 Updated as I go. Each topic has its own folder with a notebook and dataset.
 
-| Days | Topic Covered | Completed |
-|------|---------------|-----------|
-| 1 – 8 | Machine Learning Basics & Introduction | ✅ |
-| 9 – 11 | ML Lifecycle & Roles | ✅ |
-| 12 – 13 | Tools & Setup | ✅ |
-| 14 – 18 | Problem Framing & Data Collection | ✅ |
-| 19 – 22 | Exploratory Data Analysis (EDA) | ✅ |
-| 23 – 42 | Feature Engineering — Core | ✅ |
-| 43 – 52 | Advanced Feature Engineering & Dimensionality Reduction | 🔄 |
-| 53 – 70 | Regression — Fundamentals & Metrics | ⬜ |
-| 71 – 81 | Classification — Logistic Regression | ⬜ |
-| 82 – 85 | Decision Trees | ⬜ |
-| 86 – 95 | Ensemble Learning — Voting & Bagging | ⬜ |
-| 96 – 100 | Random Forest & Tuning | ⬜ |
-| 101 – 109 | Boosting Techniques | ⬜ |
-| 110 – 113 | Clustering Algorithms | ⬜ |
-| 114 | K-Nearest Neighbors (KNN) | ⬜ |
-| 115 – 119 | Support Vector Machines (SVM) | ⬜ |
-| 120 – 128 | Naive Bayes Classifier | ⬜ |
-| 129 – 136 | Additional Topics | ⬜ |
+| Days      | Topic Covered                       | Completed |
+| --------- | ----------------------------------- | --------- |
+| 1 – 10    | ML Basics & Introduction            | ✅         |
+| 11 – 18   | Setup & Data Handling               | ✅         |
+| 19 – 22   | EDA                                 | ✅         |
+| 23 – 45   | Feature Engineering & Preprocessing | ✅         |
+| 46 – 50   | Dimensionality Reduction            | 🔄         |
+| 51 – 70   | Regression                          | ⬜         |
+| 71 – 81   | Classification & Metrics            | ⬜         |
+| 82 – 85   | Tree-Based Models                   | ⬜         |
+| 86 – 109  | Ensemble Learning                   | ⬜         |
+| 110 – 113 | Clustering                          | ⬜         |
+| 114 – 119 | Other Algorithms                    | ⬜         |
+| 120 – 128 | Naïve Bayes                         | ⬜         |
+| 129 – 132 | Advanced Boosting                   | ⬜         |
+| 133 – 136 | Model Evaluation & Deployment       | ⬜         |
 
 ---
 
