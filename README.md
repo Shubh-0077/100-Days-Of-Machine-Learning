@@ -54,8 +54,8 @@ Updated as I go. Each topic has its own folder with a notebook and dataset.
 | 11 – 18   | Setup & Data Handling               | ✅         |
 | 19 – 22   | EDA                                 | ✅         |
 | 23 – 45   | Feature Engineering & Preprocessing | ✅         |
-| 46 – 50   | Dimensionality Reduction            | 🔄         |
-| 51 – 70   | Regression                          | ⬜         |
+| 46 – 50   | Dimensionality Reduction            | ✅         |
+| 51 – 70   | Regression                          | 🔄         |
 | 71 – 81   | Classification & Metrics            | ⬜         |
 | 82 – 85   | Tree-Based Models                   | ⬜         |
 | 86 – 109  | Ensemble Learning                   | ⬜         |
