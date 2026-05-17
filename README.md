@@ -46,7 +46,7 @@ Before starting this journey, I covered the following:
 
 ## 📅 Progress
 
-Updated as I go. Each topic has its own folder with a notebook and dataset.
+Updated as I go. Each Day has its own folder with a notebook and dataset.
 
 | Days      | Topic Covered                       | Completed |
 | --------- | ----------------------------------- | --------- |
