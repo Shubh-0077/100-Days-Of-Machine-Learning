@@ -48,20 +48,20 @@ Before starting this journey, I covered the following:
 
 Updated as I go. Each Day has its own folder with a notebook and dataset.
 
-| Days      | Topic Covered                       | Completed |
+| Videos    | Topic Covered                       | Completed |
 | --------- | ----------------------------------- | --------- |
 | 1 – 10    | ML Basics & Introduction            | ✅         |
 | 11 – 18   | Setup & Data Handling               | ✅         |
 | 19 – 22   | EDA                                 | ✅         |
 | 23 – 45   | Feature Engineering & Preprocessing | ✅         |
 | 46 – 50   | Dimensionality Reduction            | ✅         |
-| 51 – 70   | Regression                          | 🔄         |
-| 71 – 81   | Classification & Metrics            | ⬜         |
-| 82 – 85   | Tree-Based Models                   | ⬜         |
-| 86 – 109  | Ensemble Learning                   | ⬜         |
+| 51 – 70   | Regression                          | ✅         |
+| 71 – 81   | Classification & Metrics            | ✅         |
+| 82 – 85   | Tree-Based Models                   | ✅         |
+| 86 – 109  | Ensemble Learning                   | 🔄         |
 | 110 – 113 | Clustering                          | ⬜         |
 | 114 – 119 | Other Algorithms                    | ⬜         |
-| 120 – 128 | Naïve Bayes                         | ⬜         |
+| 120 – 128 | Naïve Bayes                         | ✅         |
 | 129 – 132 | Advanced Boosting                   | ⬜         |
 | 133 – 136 | Model Evaluation & Deployment       | ⬜         |
 
