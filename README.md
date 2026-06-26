@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning 🤖
 
-![Progress](https://img.shields.io/badge/Day-61-1D9E75?style=flat-square)
+![Progress](https://img.shields.io/badge/Day-62-1D9E75?style=flat-square)
 ![Language](https://img.shields.io/badge/Python-3.x-378ADD?style=flat-square&logo=python&logoColor=white)
 ![Curriculum](https://img.shields.io/badge/Curriculum-CampusX-7F77DD?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
