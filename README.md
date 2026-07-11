@@ -1,9 +1,9 @@
 # 100 Days of Machine Learning 🤖
 
-![Progress](https://img.shields.io/badge/Day-66-1D9E75?style=flat-square)
+![Progress](https://img.shields.io/badge/Day-100-1D9E75?style=flat-square)
 ![Language](https://img.shields.io/badge/Python-3.x-378ADD?style=flat-square&logo=python&logoColor=white)
 ![Curriculum](https://img.shields.io/badge/Curriculum-CampusX-7F77DD?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 
 A structured, daily learning journey through Machine Learning — built on the [CampusX playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=wxGxAqVuuAwCGNh8). Learning in public, one day at a time.
 
