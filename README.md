@@ -63,7 +63,7 @@ Updated as I go. Each Day has its own folder with a notebook and dataset.
 | 114 – 119 | Other Algorithms                    | ✅         |
 | 120 – 128 | Naïve Bayes                         | ✅         |
 | 129 – 132 | Advanced Boosting                   | ✅         |
-| 133 – 136 | Model Evaluation & Deployment       | 🔄         |
+| 133 – 136 | Model Evaluation & Deployment       |  ✅       |
 
 ---
 
